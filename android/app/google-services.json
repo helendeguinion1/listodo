@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "893627132756",
+    "project_id": "listodo-57bc7",
+    "storage_bucket": "listodo-57bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893627132756:android:efb136120494a1e530f6c1",
+        "android_client_info": {
+          "package_name": "com.example.listodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893627132756-ve83g8cgut5vhbpmp95c2laijueql39v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GpcTR40N_d9ZU3f4maY1hfptuZfyNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893627132756-ve83g8cgut5vhbpmp95c2laijueql39v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893627132756-muqdopndoa1a0db1jo0nef1lplko54dk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.helen.listodo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893627132756:android:009180968f13043e30f6c1",
+        "android_client_info": {
+          "package_name": "com.helen.listodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893627132756-ve83g8cgut5vhbpmp95c2laijueql39v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GpcTR40N_d9ZU3f4maY1hfptuZfyNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893627132756-ve83g8cgut5vhbpmp95c2laijueql39v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893627132756-muqdopndoa1a0db1jo0nef1lplko54dk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.helen.listodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
