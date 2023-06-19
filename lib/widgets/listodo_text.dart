@@ -7,7 +7,7 @@ class ListodoText extends StatelessWidget {
       this.fontWeight = FontWeight.normal,
       this.textColor = Colors.black,
       this.textAlign = TextAlign.start,
-      this.fontSize = 12});
+      this.fontSize = 15});
 
   final String text;
   final FontWeight fontWeight;
